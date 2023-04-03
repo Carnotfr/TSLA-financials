@@ -1,2 +1,6 @@
 # TSLA-financials
-This project aims to conduct a thorough financial analysis of Tesla, a leading electric vehicle manufacturer. 
+This project aims to conduct a thorough financial analysis of Tesla, a leading electric vehicle manufacturer. The analysis starts by utilizing the Yfinance Library to import financial data and conducting basic price analysis. The primary focus is on examining the company's financial statements, including the balance sheet, income statements, and cashflow statements.
+
+By analyzing these financial statements, the project aims to provide insight into Tesla's profitability, liquidity, and solvency. Profitability analysis will help determine the company's ability to generate profits, whereas liquidity analysis will help assess the company's ability to meet its short-term financial obligations. Solvency analysis will aid in determining the company's ability to pay off its long-term debts.
+
+This analysis is essential for investors as it allows them to evaluate a company's financial health and identify potential risks. In addition, the project uses predictive modeling techniques to predict Tesla's future financial performance based on historical data. These techniques help identify trends and patterns in Tesla's financial data, allowing for informed decision-making by investors.
